@@ -38,8 +38,8 @@ submitButton.addEventListener("click", function () {
     console.log(submited)
 
     emailjs.send(
-      '1234',
-      '123456',
+      '088991',
+      '188990',
       templateParams,
       'bElYdbXhucqHpP-0S'
     
