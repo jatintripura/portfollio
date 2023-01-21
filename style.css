@@ -6,6 +6,9 @@ body {
   font-size: 16px;
   line-height: 1.7;
   background-color: #212529;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
 .form-control {
@@ -475,4 +478,10 @@ body {
   }
 
 
+}
+@media (max-width: 320px){
+  .navbar-toggler {
+   margin-right: 0;
+   
+  }
 }
